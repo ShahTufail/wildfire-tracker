@@ -7,9 +7,9 @@ body {
 .header {
   position: fixed;
   top: 0px;
-  right: 0px;
+  right: 55px;
   left: 0px;
-  background-color: firebrick;
+  background-color: rgba(178, 34, 34, 0.95);
   z-index: 2;
   padding: 10px;
 }
