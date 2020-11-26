@@ -1,6 +1,7 @@
 {
   "name": "wildfire-tracker",
   "version": "0.1.0",
+  "author": "Tufail Mehraj",
   "private": true,
   "dependencies": {
     "@iconify/icons-mdi": "^1.0.153",
